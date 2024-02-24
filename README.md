@@ -12,7 +12,7 @@
 ![windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![windows](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white) ![vs-code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 <!--
 **axehand/axehand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
