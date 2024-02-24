@@ -3,7 +3,7 @@
 
 ### About Me
 
-[![github pages](http://img.shields.io/badge/-Github%20Pages-181717?style=flat-square&logo=github)](https://axehand.github.io/)
+<!-- [![github pages](http://img.shields.io/badge/-Github%20Pages-181717?style=flat-square&logo=github)](https://axehand.github.io/)-->
 
 ### Technical Skills
 ![c#](http://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp) ![unity](http://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
